@@ -1,3 +1,11 @@
+#prova { width: 50%; 
+		height: 200px;
+		background: url(img/f0421.gif) no-repeat;
+		background-position: center right;
+		border: 1px solid black; }
+
+
+
 /* El cuerpo de la página debe mostrar un margen de media pulgada */
 body { font-size: 1em; }
  
