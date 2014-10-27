@@ -1,0 +1,27 @@
+*{ margin: 0px;
+	padding: 0px; }
+
+.primer{ width: 50%;
+		height: 200px; }
+
+.clear{ clear:left; }
+
+.left{ width: 10%;
+		height: 10%;
+		background: green;
+		border: 1px solid black;
+		float: left;
+		color: white; }
+
+.left:hover{ background: brown;
+		color: white;
+		border: 2px white; }
+
+.menu{ background: cyan;
+		color: black; 
+		width: 90px;
+		float: left; }
+
+#cinc{ visibility: hidden; }
+
+#dos{ display: none; }
