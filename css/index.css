@@ -1,2 +1,18 @@
-body { background-image: url("../img/fondo.jpg");
+body{ background-image: url("../img/fondo.jpg");
 		background-repeat: no-repeat; }
+
+#header img{ width: 50px;
+			height: 50px; }
+
+
+#header h1{ position: absolute;
+			top: 8px;
+			left: 60px;
+			font-size: 20px;
+			color: black; }
+
+ul{ float: left;
+	width: 90%;
+	background: black;
+	color: white;
+	list-style: none; }
