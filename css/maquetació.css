@@ -1,0 +1,50 @@
+*{ margin: 0px;
+	padding: 0px; }
+
+.cap{ width: 90%;
+		height: 50px;
+		border: 1px solid black;
+		position: relative;
+		top: 30px;
+		text-align: center; }
+
+.cont1{ width: 55%; 
+		height: 200px;
+		border: 1px solid black;
+		position: relative;
+		top: 39px;
+		float: left; }
+
+.cont2{ width: 15%;
+		height: 200px;
+		border: 1px solid black;
+		position: relative;
+		top: 39px;
+		right: 392px;
+		float: right; }
+
+.menu{ width: 15%;
+		height: 200px;
+		border: 1px solid black;
+		position: relative;
+		top: 39px;
+		left: 26px;
+		float: right; }
+
+.sep{ width: 90%;
+		height: 60px;
+		border: 1px solid black;
+		position: relative;
+		top: 300px; }
+
+.peu1{ width: 45%;
+		height: 50px;
+		border: 1px solid black;
+		position: relative;
+		top: 300px; }
+
+.peu2{ width: 30%;
+		height: 50px;
+		border: 1px solid black;
+		position: relative;
+		top: 300px; }
