@@ -1,0 +1,12 @@
+*{ margin: 0;
+	padding: 0; }
+	
+#contenidor{ width: 303px; }
+
+.caja{ border: solid 1px black;
+	width: 150px;
+	height: 150px; }
+
+#caja1{ float: right;
+		height: 303px; }
+

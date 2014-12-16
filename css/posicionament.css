@@ -1,0 +1,26 @@
+*{ margin: 0;
+	padding:0; }
+#normal { width: 50%;
+			text-align: center; }
+
+#relatiu p{ background: green;
+			width: 50%;
+			border: 1px solid; }
+
+#relatiu .mou{ background: cyan;
+				position: relative;
+				top: 10px;
+				left: 10px; }
+
+#absolut p{ background: #EEB71E;
+			width: 50%;
+			border: 1px solid; }
+
+#absolut .mou{ background: #E339AD;
+				position: absolute;
+				top: 10px;
+				left: 10px; }
+
+#absolut .fixe{	position: fixed;
+				top: 200px;
+				left: 300px; }
